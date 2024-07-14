@@ -1,6 +1,6 @@
 import os
 import re
-
+# we can also use it for mui icons
 # Define the directory where your JavaScript/JSX files are located
 root_dir = "src"
 
